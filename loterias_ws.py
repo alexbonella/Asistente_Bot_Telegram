@@ -2,7 +2,7 @@
 
 *********************************************************************** 
 Autor = @lexbonella                                                   *  
-Fecha = '10/03/2021'                                                  * 
+Fecha = '06/03/2021'                                                  * 
 Nombre = Web Scrapping resultados de loteria                          *
 Descripción : Bot que envia los resultados de loteria a un usuario    * 
 *********************************************************************** 
