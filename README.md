@@ -29,4 +29,7 @@ Este repositorio contiene lo necesario para enviar por medio de un Bot de Telegr
 5. Observamos nuestros resultados en Telegram 
 
 
+![loterias_telegram](https://user-images.githubusercontent.com/45697319/110657994-4ef64180-818f-11eb-8ebe-65b6a7164625.png)
+
+
 
