@@ -24,7 +24,7 @@ Este repositorio contiene lo necesario para enviar por medio de un Bot de Telegr
     
 2.  Extrer Bot_Chat_ID 
 
-    * Ir a la ulr **`https://api.telegram.org/bot<Your_Token_Here>/getUpdates`** reemplazando *`<Your_Token_Here>`* por el que obtuviste en el paso anterior . 
+    * Ir a la ulr **`https://api.telegram.org/bot<Your_Token_Here>/getUpdates`** reemplazando *`<Your_Token_Here>`* por el que obtuviste en el paso anterior y copiarlo en *`credentials.py`* . 
   
 4. Ejecutar el Script **`bot_tele.py`**
 
